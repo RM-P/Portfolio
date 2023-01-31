@@ -115,7 +115,7 @@
   }
 
   .horizontal {
-    grid-column: span 2;
+    grid-column: span 2;  
   }
   
   .vertical {
@@ -126,3 +126,5 @@
     grid-column: span 2;
     grid-row: span 2;
   }
+
+
